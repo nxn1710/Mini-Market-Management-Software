@@ -1,0 +1,1 @@
+# A Simple Mini Market Management Software
